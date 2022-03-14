@@ -1,0 +1,64 @@
+
+<style>
+
+h2#container {
+	background-color: #778899;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 4px solid black;
+}
+section{
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative;
+	background-color: #778899;
+	border: 4px solid black;
+	margin: 10px;
+}
+p {
+	position: relative;
+	top: 20px;
+	padding: 5px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+/*recipe cards*/
+#chicken {
+	background-color:#ffc0cb; 
+	width: 100px;
+	position: absolute; 
+	right: -9px;
+	top: -9px;
+	padding: 6px;
+	border: 4px solid black;
+	margin: 5px;
+	font-weight: bold;
+	font-size: 130%;
+}
+#beef {
+	background-color: #dc1c13;
+	position: absolute; 
+	right: -4px;
+	top: -4px;
+	padding: 6px;
+	border: 4px solid black;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 130%;
+	}
+#sushi {
+	background-color: #fdd128;
+	position: absolute; 
+	right: -4px;
+	top: -4px;
+	padding: 6px;
+	border: 4px solid black;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 130%;
+}
+
+
+
+
+
+</style>
