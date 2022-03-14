@@ -12,7 +12,11 @@ section{
 	position: relative;
 	background-color: #778899;
 	border: 4px solid black;
-	margin: 10px;
+	margin: 5px;
+
+}
+div {
+	margin: 5px;
 }
 p {
 	position: relative;
